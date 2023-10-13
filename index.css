@@ -1,0 +1,35 @@
+.header {
+  background-image: linear-gradient(to bottom right, #009721, rgb(200, 255, 0));
+  color: #D3D3D3;
+  padding: 1px;
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  padding: 0px;
+  margin: 0px;
+  height: 100%;
+  width: 100%;
+}
+
+.congratulations {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: large;
+}
+
+.centered {
+  text-align: center;
+}
+
+.route-box {
+  background-color: #D3D3D3;
+  color: #008539;
+  padding: 20px;
+  margin: 20px auto;
+  width: 80%;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 15px;
+  text-align: center;
+}
